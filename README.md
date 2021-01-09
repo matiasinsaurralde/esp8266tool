@@ -7,6 +7,8 @@ Toy program to communicate with the Espressif ESP8266 bootloader.
 
 Based on [esptool](https://github.com/fluepke/esptool) and [esptool.py](https://github.com/espressif/esptool).
 
+Other relevant projects: [iotit](https://github.com/xshellinc/iotit), [esp-flasher](https://github.com/xshellinc/esp-flasher).
+
 Currently the only supported command is `read_mac`:
 
 ```
